@@ -1,0 +1,10 @@
+{
+  "id": "openagent",
+  "name": "OpenAgent",
+  "version": "0.1.2",
+  "minAppVersion": "1.5.0",
+  "description": "Run OpenAgent tasks from Obsidian Canvas through a local Codex server and Codex Desktop.",
+  "author": "OpenAgentMarket",
+  "authorUrl": "https://github.com/openagentmarket/openagent-obsidian-plugin",
+  "isDesktopOnly": true
+}

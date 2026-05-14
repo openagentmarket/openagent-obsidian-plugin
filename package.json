@@ -1,0 +1,17 @@
+{
+  "name": "openagent-obsidian-plugin",
+  "version": "0.1.2",
+  "description": "Run OpenAgent tasks from Obsidian Canvas through a local Codex server and Codex Desktop.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "main.js",
+  "files": [
+    "main.js",
+    "manifest.json",
+    "styles.css"
+  ],
+  "scripts": {
+    "check": "node --check main.js",
+    "package": "node scripts/package-release.mjs"
+  }
+}
