@@ -1,7 +1,7 @@
 {
-  "id": "openagent",
-  "name": "OpenAgent",
-  "version": "0.1.2",
+  "id": "openagent-canvas",
+  "name": "OpenAgent Canvas",
+  "version": "0.1.3",
   "minAppVersion": "1.5.0",
   "description": "Run OpenAgent tasks from Obsidian Canvas through a local Codex server and Codex Desktop.",
   "author": "OpenAgentMarket",

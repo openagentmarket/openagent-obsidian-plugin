@@ -9,7 +9,7 @@ const dist = path.join(root, "dist");
 const manifest = JSON.parse(fs.readFileSync(path.join(root, "manifest.json"), "utf8"));
 const requiredFiles = ["main.js", "manifest.json", "styles.css"];
 const optionalFiles = ["logo.png", "vault-pet-mascot.png"];
-const archiveName = `openagent-obsidian-plugin-${manifest.version}.zip`;
+const archiveName = `openagent-canvas-${manifest.version}.zip`;
 const bundleDir = path.join(dist, manifest.id);
 
 fs.rmSync(dist, { recursive: true, force: true });

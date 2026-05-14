@@ -1,6 +1,6 @@
-# OpenAgent
+# OpenAgent Canvas
 
-OpenAgent is an Obsidian plugin for running local AI agent workflows from your vault and Canvas.
+OpenAgent Canvas is an Obsidian plugin for running local AI agent workflows from your vault and Canvas.
 
 It connects Obsidian to a local OpenAgent daemon so you can start Codex tasks from selected Canvas nodes or notes, track active threads, write results back to Canvas, and keep agent work anchored in your vault.
 
@@ -19,16 +19,16 @@ After this plugin is published in the Obsidian Community directory:
 
 1. Open Obsidian.
 2. Go to **Settings -> Community plugins**.
-3. Search for **OpenAgent**.
+3. Search for **OpenAgent Canvas**.
 4. Install and enable the plugin.
 
 For manual testing, download `main.js`, `manifest.json`, and `styles.css` from a GitHub release and place them in:
 
 ```text
-.obsidian/plugins/openagent/
+.obsidian/plugins/openagent-canvas/
 ```
 
-Then enable **OpenAgent** in **Settings -> Community plugins**.
+Then enable **OpenAgent Canvas** in **Settings -> Community plugins**.
 
 ## Local Daemon
 
